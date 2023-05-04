@@ -1,0 +1,6 @@
+- Install KIND:
+    https://kind.sigs.k8s.io/docs/user/quick-start/#installing-from-release-binaries
+- create cluster:
+    kind create cluster
+- get nodes:
+    kind get nodes
