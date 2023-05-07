@@ -8,3 +8,4 @@
     kubectl create deployment nginx --image=nginx --port=80
     kind get nodes
     kubectl get deployment
+    kubectl get replicaset
